@@ -90,7 +90,7 @@ color: lightblue;
 .banner
 {
     height: 100vh;
-    background: url(./images/first.jpg);
+    background: url('./first.jpg');
     justify-content: center;
     align-items: center;
 
